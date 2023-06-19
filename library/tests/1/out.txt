@@ -1,0 +1,1 @@
+You can’t extend and borrow a document on the same day
